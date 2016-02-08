@@ -1,0 +1,23 @@
+{
+  "name": "dcas-api",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Smart421"
+  ],
+  "license": "Apache 2.0",
+  "keywords": [
+    "raml-api"
+  ],
+  "homepage": "https://github.com/tgriffiths/ramlclient",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
